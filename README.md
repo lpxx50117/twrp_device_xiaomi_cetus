@@ -12,3 +12,6 @@ Flashing Magisk and other stuff
 Bugs:  
 Display in cover screen(but touchscreen in cover screen is working)  
 
+Tips:If you want to build the TWRP for the HyperOS(like OS1.0.1.0.TJTCNXM),  
+just replacing three files from prebuilt/HyperOSprebuilt to prebuilt/cetus.  
+
